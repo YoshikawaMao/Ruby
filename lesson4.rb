@@ -1,0 +1,2 @@
+name="ヨシカワ"
+puts name
